@@ -23,7 +23,7 @@ int main()
 
     int count = 0;
 
-    while (n == 0)
+    while (n != 0)
     {
         int r = n / 10;
         if (r > 1)

@@ -17,9 +17,9 @@ General Instructions:
 
 4. Fill the details and answer the questions: 
 ********************************************************************************
-Full Name:
+Full Name:Sherley Gracia
 Class(First Year/ Second Year): 
-Roll No: 
+Roll No: 20CS801031
 
 what is the git command to clone ?
 Ans : 
@@ -28,7 +28,7 @@ what is the git command to commit ?
 Ans :
 
 What is the git command to push ?
-Ans : 
+Ans : push
 
 ********************************************************************************
 
